@@ -7,5 +7,8 @@
 
 <h2> Punto 1: Link figma</h2>
 
-<a href="" target="_blank">Link de Figma</a>
+<a href="https://www.figma.com/file/xdDqtOJV9vuwMKHwZoAIHb/Maria-C%C3%A1ceres---Proyecto-Figma?type=design&node-id=0%3A1&mode=design&t=QPBSFcV2pROWWgxF-1" target="_blank">Link de Figma</a>
+
+<h2>Punto 2: HTML</h2>
+<img src="./public/images/HTML]_MARIA.png" alt="html">
 
