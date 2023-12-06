@@ -12,6 +12,5 @@
 <h2>Punto 2: HTML</h2>
 <img src="./public/images/HTML]_MARIA.png" alt="html">
 
-<h2>Punto 3: CSS</h2>
-<img src="./public/images/CSS_MARIA_CACERES.png>" alt="CSS">
-
+<h2>Punto 3: CSS </h2>
+<img src="./public/images/CSS_MARIA_CACERES.png" alt="CSS">
